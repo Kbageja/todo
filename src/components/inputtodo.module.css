@@ -1,0 +1,40 @@
+.addbar{
+    float: left;
+    width: 370px;
+    height: 29px;
+    border-radius: 2px;
+    border-width: 0.3px;
+    font-family: 'Rubik';
+}
+.adddate{
+    float: center;
+    width: 170px;
+    height: 30px;
+    border-radius: 2px;
+    border-width: 0.3px;
+    text-align: center;
+    font-family: 'Rubik';
+
+}
+.button{
+    float: center;
+    width: 90px;
+    height: 32px;
+    background-color: rgba(3, 172, 3, 0.822);
+    color: white;
+    border-radius: 2px;
+    border:none;
+    text-align: center;
+    font-family: 'Rubik';
+}
+.button:hover{
+    float: center;
+    width: 90px;
+    height: 32px;
+    background-color: rgba(2, 110, 2, 0.822);
+    color: white;
+    border-radius: 2px;
+    border:none;
+    text-align: center;
+    font-family: 'Rubik';
+}

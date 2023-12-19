@@ -1,0 +1,7 @@
+.rows{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    font-family: "Rubik";
+    font-size: 23px ;
+}
